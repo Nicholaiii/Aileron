@@ -11,6 +11,8 @@ I am hosting the Open Type files for the font on this repository to take advanta
 
 ##License
 SIL Open Font Licenseライセンスの元で公開しています。
+
 https://en.wikipedia.org/wiki/SIL_Open_Font_License
+
 http://ja.wikipedia.org/wiki/SIL_Open_Font_License
 
